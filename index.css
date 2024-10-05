@@ -1,0 +1,19 @@
+html{
+    background-image: url(fondo.jpg);
+    background-size: cover;
+}
+form{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    padding-top: 50 px;
+}
+#barraSuperior{
+    display: flex;
+    justify-content: flex-start;
+    background-color: cornflowerblue;
+    color: azure;
+    font-family: 'Courier New';
+    padding-left: 20px;
+    box-shadow: 0px 5px 10 px dimgray;
+}
